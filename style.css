@@ -296,7 +296,7 @@ body {
     left: 27%;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 768px) {
 
 
     .text-content h2 {
@@ -318,7 +318,7 @@ body {
     }
 
     .fresh-slider .slick-track {
-        left: 32%;
+        left: 42%;
     }
 
     .fresh-slider .card-title {
@@ -340,7 +340,7 @@ body {
     }
 
     .fresh {
-        padding-top: 200px;
+        padding-top: 80px;
     }
 }
 
@@ -799,7 +799,7 @@ body {
 
 @media (max-width: 600px) {
     .innovation-item {
-        padding: 80px 45px;
+        padding: 80px 70px;
     }
 }
 
