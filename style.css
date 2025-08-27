@@ -154,6 +154,14 @@ body {
     .section-text {
         font-size: 14px;
     }
+
+    .hero {
+    height: 60vh;
+}
+
+.hero-text {
+    padding-top: 224px;
+}
 }
 
 /* hero ends here */
